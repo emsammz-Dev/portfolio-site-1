@@ -70,7 +70,7 @@ export default function About() {
       transition: { duration: 0.4 },
     },
   };
-
+  // about main
   return (
     <>
       <div>
